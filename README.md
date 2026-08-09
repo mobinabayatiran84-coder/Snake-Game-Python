@@ -53,6 +53,12 @@ A classic Snake game built from scratch using **Python** and **Pygame**. This pr
 
 <img width="597" height="428" alt="snake-game py" src="https://github.com/user-attachments/assets/ca0c964b-a056-4b5d-b32c-89240d567820" />
 
+a short vid 🎬
+
+
+https://github.com/user-attachments/assets/8290c961-e716-43df-9553-a839898105a9
+
+
 
 
    👩‍💻 Author
