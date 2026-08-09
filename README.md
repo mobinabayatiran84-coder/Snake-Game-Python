@@ -51,8 +51,11 @@ A classic Snake game built from scratch using **Python** and **Pygame**. This pr
 
 📸 Screenshot
 
+<img width="597" height="428" alt="snake-game py" src="https://github.com/user-attachments/assets/ca0c964b-a056-4b5d-b32c-89240d567820" />
+
+
 
    👩‍💻 Author
 Mobina Bayat
 Python Developer | 3D Automation Enthusiast
-  [GitHub](https://github.com/mobinabyt) | [LinkedIn](www.linkedin.com/in/mobinabyt)
+  [GitHub](https://github.com/mobinabyt)      |    [LinkedIn](www.linkedin.com/in/mobinabyt)
