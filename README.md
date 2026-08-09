@@ -55,4 +55,4 @@ A classic Snake game built from scratch using **Python** and **Pygame**. This pr
    👩‍💻 Author
 Mobina Bayat
 Python Developer | 3D Automation Enthusiast
- https://github.com/mobinabyt | www.linkedin.com/in/mobinabyt
+  [GitHub](https://github.com/mobinabyt) | [LinkedIn](www.linkedin.com/in/mobinabyt)
